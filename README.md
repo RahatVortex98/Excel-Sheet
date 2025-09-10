@@ -47,6 +47,9 @@ Example:
 | 101    | Alice    | 5000       |
 | 102    | Bob      | 6000       |
 | 103    | Charlie  | 7000       |
+
+
+
 Formula:
 =VLOOKUP(102, A2:C4, 3, FALSE)
 
